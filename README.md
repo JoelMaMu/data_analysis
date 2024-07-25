@@ -11,7 +11,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- 
+
+<h4 align="left">Resume :</h4>
+<p
 A repository for data analys projects
 
 We started from a “Heart disease” dataset that provided information from a study of 1205 people, all of whom had shown signs of cardiovascular disease and led others to death.
@@ -29,4 +31,4 @@ Libraries:
 Analysis
 - Linear regression
 - Correlation matrix
-
+</p>
