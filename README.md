@@ -16,7 +16,7 @@
 <p
 A repository for data analys projects
 
-We started from a “Heart disease” dataset that provided information from a study of 1205 people, all of whom had shown signs of cardiovascular disease and led others to death.
+We launch certain projects and use data analysis to provide solutions or facilitate decision-making.
 
 We used the following tools;
 - Visual studio code
